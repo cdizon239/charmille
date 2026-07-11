@@ -3,7 +3,7 @@ function App() {
     <main>
       <header>
         <h1>Charmille Coleen Dizon</h1>
-        <p className="role">AI Product Engineer</p>
+        <p className="role">Product Engineer</p>
       </header>
 
       <section>
@@ -35,26 +35,58 @@ function App() {
         <ul>
           <li>
             <span className="dates">2023&ndash;</span>
-            <span>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></span>
+            <div>
+              <p>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></p>
+              <p className="blurb">
+                Data pipelines and services on GCP that move scent data from
+                lab instruments to models and products.
+              </p>
+            </div>
           </li>
           <li>
             <span className="dates">2022&ndash;23</span>
-            <span>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></span>
+            <div>
+              <p>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></p>
+              <p className="blurb">
+                Full-stack features for program support and user retention,
+                plus the dev tooling and test coverage around them.
+              </p>
+            </div>
           </li>
           <li>
             <span className="dates">2021&ndash;22</span>
-            <span>Product Manager, Indigo</span>
+            <div>
+              <p>Product Manager, Indigo</p>
+              <p className="blurb">
+                Shipped MVPs of agronomic tools used by farmers and partners,
+                and ran the user research and analytics behind Indigo Carbon
+                product decisions.
+              </p>
+            </div>
           </li>
           <li>
             <span className="dates">2020</span>
-            <span>Data Analyst, Indigo</span>
+            <div>
+              <p>Data Analyst, Indigo</p>
+              <p className="blurb">
+                Built the SQL-powered metrics hub for company objectives and
+                delivered personalized agronomic reports to 200+ farmers.
+              </p>
+            </div>
           </li>
           <li>
             <span className="dates">2018</span>
-            <span>
-              Guest Researcher,{' '}
-              <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
-            </span>
+            <div>
+              <p>
+                Guest Researcher,{' '}
+                <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
+              </p>
+              <p className="blurb">
+                Analyzed 12-meter blue hole sediment cores to reconstruct
+                1,500 years of Atlantic hurricane strikes for my honors
+                thesis.
+              </p>
+            </div>
           </li>
         </ul>
       </section>
