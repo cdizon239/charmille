@@ -3,7 +3,7 @@
 Personal one-page site. Vite + React + TypeScript.
 
 ```sh
-npm install
-npm run dev     # local dev server
-npm run build   # production build in dist/
+pnpm install
+pnpm dev     # local dev server
+pnpm build   # production build in dist/
 ```
