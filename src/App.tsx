@@ -59,9 +59,8 @@ function App() {
             <div>
               <p>Product Manager, Indigo</p>
               <p className="blurb">
-                Launched digital agronomy tools adopted by Corteva, Growmark,
-                and hundreds of farmers &mdash; lifting conversion and
-                cutting churn
+                Led discovery and launch of digital agronomy products
+                adopted by Corteva, Growmark, and hundreds of farmers
               </p>
             </div>
           </li>
