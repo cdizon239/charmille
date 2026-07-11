@@ -3,25 +3,26 @@ function App() {
     <main>
       <header>
         <h1>Charmille Coleen Dizon</h1>
-        <p className="role">Software Engineer</p>
+        <p className="role">AI Product Engineer</p>
       </header>
 
       <section>
         <p>
-          I write software at <a href="https://www.osmo.ai/">Osmo</a>, where
-          we&rsquo;re giving computers a sense of smell.
+          I build AI products at <a href="https://www.osmo.ai/">Osmo</a>,
+          where we&rsquo;re giving computers a sense of smell. My work is
+          deliberately holistic &mdash; data-intensive systems, models, and
+          interfaces, along with the product decisions that connect them.
         </p>
         <p>
           I got here the long way around &mdash; first as a scientist
           reconstructing 1,500 years of hurricane history from island
-          blue-hole sediments, then through data and product, and finally
-          engineering. Each turn taught me the same thing: I&rsquo;m happiest
-          in the loop of learning something, building with it, and learning
-          again.
+          blue-hole sediments, then through data analysis and product
+          management, and finally engineering. Every seat I&rsquo;ve sat in
+          shows up in how I build.
         </p>
         <p>
-          I care about tools that put people first and systems that hold up
-          as they grow.
+          Curiosity drives most of it. I like shipping quickly, working
+          across teams, and mentoring engineers along the way.
         </p>
       </section>
 
