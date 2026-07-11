@@ -39,7 +39,7 @@ function App() {
               <p>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></p>
               <p className="blurb">
                 Digitizing the sense of smell &mdash; data pipelines from lab
-                to model
+                to model to products
               </p>
             </div>
           </li>
