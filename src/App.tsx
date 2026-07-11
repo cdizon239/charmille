@@ -14,11 +14,10 @@ function App() {
           interfaces, along with the product decisions that connect them.
         </p>
         <p>
-          I got here the long way around &mdash; first as a scientist
-          reconstructing 1,500 years of hurricane history from island
-          blue-hole sediments, then through data analysis and product
-          management, and finally engineering. Every seat I&rsquo;ve sat in
-          shows up in how I build.
+          Before engineering, I worked in data analysis and product
+          management, and before that in scientific research, reconstructing
+          hurricane records at Woods Hole. I&rsquo;m most useful where
+          science, product, and software meet.
         </p>
         <p>
           Curiosity drives most of it. I like shipping quickly, working
