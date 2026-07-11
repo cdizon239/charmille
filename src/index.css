@@ -94,6 +94,42 @@ a:hover {
   text-decoration-color: currentColor;
 }
 
+.experience {
+  margin-top: 3.5rem;
+}
+
+.experience h2 {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.8125rem;
+  font-weight: 400;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 1.25rem;
+}
+
+.experience ul {
+  list-style: none;
+}
+
+.experience li {
+  display: flex;
+  gap: 1.25rem;
+  align-items: baseline;
+}
+
+.experience li + li {
+  margin-top: 0.5rem;
+}
+
+.dates {
+  font-family: "Inter", system-ui, sans-serif;
+  font-size: 0.8125rem;
+  font-variant-numeric: tabular-nums;
+  color: var(--muted);
+  flex: 0 0 4.25rem;
+}
+
 .elsewhere {
   margin-top: 3.5rem;
   font-family: "Inter", system-ui, sans-serif;

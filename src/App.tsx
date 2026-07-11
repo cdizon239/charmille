@@ -25,6 +25,39 @@ function App() {
         </p>
       </section>
 
+      <section className="experience" aria-label="Experience">
+        <h2>Experience</h2>
+        <ul>
+          <li>
+            <span className="dates">2024&ndash;</span>
+            <span>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></span>
+          </li>
+          <li>
+            <span className="dates">2023&ndash;24</span>
+            <span>Software Engineer II, Osmo</span>
+          </li>
+          <li>
+            <span className="dates">2022&ndash;23</span>
+            <span>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></span>
+          </li>
+          <li>
+            <span className="dates">2021&ndash;22</span>
+            <span>Product Manager, Indigo</span>
+          </li>
+          <li>
+            <span className="dates">2020</span>
+            <span>Data Analyst, Indigo</span>
+          </li>
+          <li>
+            <span className="dates">2018</span>
+            <span>
+              Guest Researcher,{' '}
+              <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
+            </span>
+          </li>
+        </ul>
+      </section>
+
       <nav className="elsewhere" aria-label="Elsewhere">
         <a href="https://github.com/cdizon239">GitHub</a>
         <a href="https://www.linkedin.com/in/charmille-coleen-dizon/">
