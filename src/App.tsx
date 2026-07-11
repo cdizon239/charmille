@@ -12,7 +12,9 @@ function App() {
           where we&rsquo;re giving computers a sense of smell &mdash; from
           the data pipelines that carry scent from lab to model, to the
           models themselves, to the interfaces and product decisions built
-          on top of them.
+          on top of them. That extends to the physical side too: the making
+          and fulfillment of scent products, integrated with MES and ERP
+          systems.
         </p>
         <p>
           Before engineering, I worked in data analysis and product
@@ -38,8 +40,7 @@ function App() {
             <div>
               <p>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></p>
               <p className="blurb">
-                Digitizing the sense of smell &mdash; I build the pipelines
-                that turn lab data into models and products
+                Digitize the sense of smell and democratize scent creation through data, ML models, and software products
               </p>
             </div>
           </li>
@@ -48,9 +49,7 @@ function App() {
             <div>
               <p>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></p>
               <p className="blurb">
-                Technology for sustainable agriculture &mdash; shipped
-                full-stack services that drove user retention across
-                Indigo&rsquo;s grower programs
+                Development of technology for sustainable agriculture
               </p>
             </div>
           </li>
@@ -59,8 +58,8 @@ function App() {
             <div>
               <p>Product Manager, Indigo</p>
               <p className="blurb">
-                Led discovery and launch of digital agronomy products
-                adopted by Corteva, Growmark, and hundreds of farmers
+                Discovery and launch of digital agronomy products
+                for farmers and agriculture enterprises
               </p>
             </div>
           </li>
@@ -69,8 +68,8 @@ function App() {
             <div>
               <p>Data Analyst, Indigo</p>
               <p className="blurb">
-                Automated the generation and distribution of personalized
-                agronomy reports to 200+ farms
+                Automated generation and distribution of personalized
+                agronomy reports
               </p>
             </div>
           </li>
