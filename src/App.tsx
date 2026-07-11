@@ -29,12 +29,8 @@ function App() {
         <h2>Experience</h2>
         <ul>
           <li>
-            <span className="dates">2024&ndash;</span>
+            <span className="dates">2023&ndash;</span>
             <span>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></span>
-          </li>
-          <li>
-            <span className="dates">2023&ndash;24</span>
-            <span>Software Engineer II, Osmo</span>
           </li>
           <li>
             <span className="dates">2022&ndash;23</span>
