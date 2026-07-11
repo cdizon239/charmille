@@ -16,9 +16,13 @@ function App() {
         </p>
         <p>
           Before engineering, I worked in data analysis and product
-          management, and before that in scientific research, reconstructing
-          hurricane records at Woods Hole. I&rsquo;m most useful where
-          science, product, and software meet.
+          management. I started out in climate research at Woods Hole
+          Oceanographic Institution, reconstructing 1,500 years of hurricane
+          activity from blue hole sediments &mdash;{' '}
+          <a href="https://www.sciencedirect.com/science/article/pii/S0277379121003334">
+            published in <em>Quaternary Science Reviews</em>
+          </a>
+          . I&rsquo;m most useful where science, product, and software meet.
         </p>
         <p>
           Curiosity drives most of it. I like shipping quickly, working
