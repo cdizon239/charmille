@@ -38,8 +38,8 @@ function App() {
             <div>
               <p>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></p>
               <p className="blurb">
-                Digitizing the sense of smell &mdash; data pipelines from lab
-                to model to products
+                Digitizing the sense of smell &mdash; I build the pipelines
+                that turn lab data into models and products
               </p>
             </div>
           </li>
@@ -48,8 +48,8 @@ function App() {
             <div>
               <p>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></p>
               <p className="blurb">
-                Technology for sustainable agriculture &mdash; full-stack
-                product features
+                Technology for sustainable agriculture &mdash; built
+                full-stack features that kept farmers supported and enrolled
               </p>
             </div>
           </li>
@@ -57,7 +57,10 @@ function App() {
             <span className="dates">2021&ndash;22</span>
             <div>
               <p>Product Manager, Indigo</p>
-              <p className="blurb">Agronomic tool MVPs and user research</p>
+              <p className="blurb">
+                Took agronomic tools from MVP to adoption by partners like
+                Corteva and Growmark
+              </p>
             </div>
           </li>
           <li>
@@ -65,7 +68,8 @@ function App() {
             <div>
               <p>Data Analyst, Indigo</p>
               <p className="blurb">
-                Metrics and personalized reports for 200+ farmers
+                Built Indigo&rsquo;s metrics hub and personalized reports for
+                200+ farmers
               </p>
             </div>
           </li>
@@ -77,8 +81,8 @@ function App() {
                 <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
               </p>
               <p className="blurb">
-                Ocean research and exploration &mdash; 1,500 years of
-                hurricane records from sediment cores
+                Ocean research and exploration &mdash; reconstructed 1,500
+                years of hurricane strikes from blue hole sediment cores
               </p>
             </div>
           </li>
