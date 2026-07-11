@@ -9,10 +9,10 @@ function App() {
       <section>
         <p>
           I build AI products at <a href="https://www.osmo.ai/">Osmo</a>,
-          where we&rsquo;re giving computers a sense of smell. My work is
-          deliberately holistic &mdash; the data pipelines that carry scent
-          from lab to model, the models themselves, and the interfaces and
-          product decisions built on top of them.
+          where we&rsquo;re giving computers a sense of smell &mdash; from
+          the data pipelines that carry scent from lab to model, to the
+          models themselves, to the interfaces and product decisions built
+          on top of them.
         </p>
         <p>
           Before engineering, I worked in data analysis and product
