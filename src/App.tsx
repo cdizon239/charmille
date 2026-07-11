@@ -37,41 +37,26 @@ function App() {
             <span className="dates">2023&ndash;</span>
             <div>
               <p>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></p>
-              <p className="blurb">
-                Data pipelines and services on GCP that move scent data from
-                lab instruments to models and products.
-              </p>
+              <p className="blurb">Digitizing the sense of smell</p>
             </div>
           </li>
           <li>
             <span className="dates">2022&ndash;23</span>
             <div>
               <p>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></p>
-              <p className="blurb">
-                Full-stack features for program support and user retention,
-                plus the dev tooling and test coverage around them.
-              </p>
+              <p className="blurb">Technology for sustainable agriculture</p>
             </div>
           </li>
           <li>
             <span className="dates">2021&ndash;22</span>
             <div>
               <p>Product Manager, Indigo</p>
-              <p className="blurb">
-                Shipped MVPs of agronomic tools used by farmers and partners,
-                and ran the user research and analytics behind Indigo Carbon
-                product decisions.
-              </p>
             </div>
           </li>
           <li>
             <span className="dates">2020</span>
             <div>
               <p>Data Analyst, Indigo</p>
-              <p className="blurb">
-                Built the SQL-powered metrics hub for company objectives and
-                delivered personalized agronomic reports to 200+ farmers.
-              </p>
             </div>
           </li>
           <li>
@@ -81,11 +66,7 @@ function App() {
                 Guest Researcher,{' '}
                 <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
               </p>
-              <p className="blurb">
-                Analyzed 12-meter blue hole sediment cores to reconstruct
-                1,500 years of Atlantic hurricane strikes for my honors
-                thesis.
-              </p>
+              <p className="blurb">Ocean research and exploration</p>
             </div>
           </li>
         </ul>
