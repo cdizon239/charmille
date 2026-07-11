@@ -37,26 +37,36 @@ function App() {
             <span className="dates">2023&ndash;</span>
             <div>
               <p>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></p>
-              <p className="blurb">Digitizing the sense of smell</p>
+              <p className="blurb">
+                Digitizing the sense of smell &mdash; data pipelines from lab
+                to model
+              </p>
             </div>
           </li>
           <li>
             <span className="dates">2022&ndash;23</span>
             <div>
               <p>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></p>
-              <p className="blurb">Technology for sustainable agriculture</p>
+              <p className="blurb">
+                Technology for sustainable agriculture &mdash; full-stack
+                product features
+              </p>
             </div>
           </li>
           <li>
             <span className="dates">2021&ndash;22</span>
             <div>
               <p>Product Manager, Indigo</p>
+              <p className="blurb">Agronomic tool MVPs and user research</p>
             </div>
           </li>
           <li>
             <span className="dates">2020</span>
             <div>
               <p>Data Analyst, Indigo</p>
+              <p className="blurb">
+                Metrics and personalized reports for 200+ farmers
+              </p>
             </div>
           </li>
           <li>
@@ -66,7 +76,10 @@ function App() {
                 Guest Researcher,{' '}
                 <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
               </p>
-              <p className="blurb">Ocean research and exploration</p>
+              <p className="blurb">
+                Ocean research and exploration &mdash; 1,500 years of
+                hurricane records from sediment cores
+              </p>
             </div>
           </li>
         </ul>
