@@ -8,13 +8,17 @@ function App() {
 
       <section>
         <p>
-          I build AI products at <a href="https://www.osmo.ai/">Osmo</a>,
-          where we&rsquo;re giving computers a sense of smell &mdash; from
-          the data pipelines that carry scent from lab to model, to the
-          models themselves, to the interfaces and product decisions built
-          on top of them. That extends to the physical side too: the making
-          and fulfillment of scent products, integrated with MES and ERP
-          systems.
+          I&rsquo;m a product engineer in Boston. I build data-intensive AI
+          products end to end &mdash; the pipelines, the models, and the
+          interfaces and product decisions on top of them. I&rsquo;m most
+          useful where science, product, and software meet.
+        </p>
+        <p>
+          At <a href="https://www.osmo.ai/">Osmo</a>, we&rsquo;re giving
+          computers a sense of smell. I build the data pipelines that carry
+          scent from lab to model, and the software behind the making and
+          fulfillment of physical scent products, integrated with MES and
+          ERP systems.
         </p>
         <p>
           Before engineering, I worked in data analysis and product
@@ -24,7 +28,7 @@ function App() {
           <a href="https://www.sciencedirect.com/science/article/pii/S0277379121003334">
             published in <em>Quaternary Science Reviews</em>
           </a>
-          . I&rsquo;m most useful where science, product, and software meet.
+          .
         </p>
         <p>
           Curiosity drives most of it. I like shipping quickly, working
