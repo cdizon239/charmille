@@ -48,8 +48,9 @@ function App() {
             <div>
               <p>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></p>
               <p className="blurb">
-                Technology for sustainable agriculture &mdash; built
-                full-stack features that kept farmers supported and enrolled
+                Technology for sustainable agriculture &mdash; shipped
+                full-stack services that drove user retention across
+                Indigo&rsquo;s grower programs
               </p>
             </div>
           </li>
@@ -58,8 +59,9 @@ function App() {
             <div>
               <p>Product Manager, Indigo</p>
               <p className="blurb">
-                Took agronomic tools from MVP to adoption by partners like
-                Corteva and Growmark
+                Launched digital agronomy tools adopted by Corteva, Growmark,
+                and hundreds of farmers &mdash; lifting conversion and
+                cutting churn
               </p>
             </div>
           </li>
@@ -68,8 +70,8 @@ function App() {
             <div>
               <p>Data Analyst, Indigo</p>
               <p className="blurb">
-                Built Indigo&rsquo;s metrics hub and personalized reports for
-                200+ farmers
+                Automated the generation and distribution of personalized
+                agronomy reports to 200+ farms
               </p>
             </div>
           </li>
@@ -81,8 +83,8 @@ function App() {
                 <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
               </p>
               <p className="blurb">
-                Ocean research and exploration &mdash; reconstructed 1,500
-                years of hurricane strikes from blue hole sediment cores
+                Paleotempestology &mdash; reconstructed 1,500 years of
+                hurricane strikes from blue hole sediment cores
               </p>
             </div>
           </li>
