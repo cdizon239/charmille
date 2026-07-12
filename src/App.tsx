@@ -100,9 +100,8 @@ function App() {
             <a href="https://www.northeastern.edu/">Northeastern University</a>
           </p>
           <p className="blurb">
-            Ran cultural programming with the Office of Global Services and
-            mentored international students navigating academic life, while
-            tutoring peers alongside my degree
+            Cultural programming and mentorship for international students,
+            plus peer tutoring alongside my degree
           </p>
           <ul>
             <li>
