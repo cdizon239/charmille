@@ -6,8 +6,8 @@ function App() {
           <h1>Charmille Coleen Dizon</h1>
           <p className="role">Product Engineer</p>
         </div>
-        <div className="brand-art" aria-hidden="true">
-          <img src="/lineart1.svg" alt="" />
+        <div className="brand-art">
+          <img src="/charmille.jpeg" alt="Charmille Coleen Dizon" />
         </div>
       </header>
 
