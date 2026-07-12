@@ -14,11 +14,11 @@ function App() {
           useful where science, product, and software meet.
         </p>
         <p>
-          At <a href="https://www.osmo.ai/">Osmo</a>, we&rsquo;re giving
-          computers a sense of smell. I build the data pipelines that carry
-          scent from lab to model, and the software behind the making and
-          fulfillment of physical scent products, integrated with MES and
-          ERP systems.
+          Today I&rsquo;m at <a href="https://www.osmo.ai/">Osmo</a>, where
+          we&rsquo;re giving computers a sense of smell. I build the data
+          pipelines that carry scent from lab to model, and the software
+          behind the making and fulfillment of physical scent products,
+          integrated with MES and ERP systems.
         </p>
         <p>
           Before engineering, I worked in data analysis and product
