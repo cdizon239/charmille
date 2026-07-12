@@ -23,17 +23,12 @@ function App() {
         </p>
         <p>
           Before engineering, I worked in data analysis and product
-          management. I started out in climate research at Woods Hole
-          Oceanographic Institution, reconstructing 1,500 years of hurricane
-          activity from blue hole sediments &mdash;{' '}
+          management, and started out in climate research at Woods Hole,{' '}
           <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379121003334">
             published in <em>Quaternary Science Reviews</em>
           </a>
-          .
-        </p>
-        <p>
-          Curiosity drives most of it. I like shipping quickly, working
-          across teams, and mentoring engineers along the way.
+          . Curiosity drives most of it &mdash; I like shipping fast, working
+          across teams, and mentoring along the way.
         </p>
       </section>
 
