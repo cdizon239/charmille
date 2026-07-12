@@ -11,14 +11,15 @@ function App() {
           I&rsquo;m a product engineer in Boston. I build data-intensive AI
           products end to end, from the data pipelines to the ML models to
           the interfaces and product decisions on top of them. I&rsquo;m most
-          useful where science, product, and engineering meet.
+          useful where science and software meet.
         </p>
         <p>
           Today I&rsquo;m at <a href="https://www.osmo.ai/">Osmo</a>, where
           we&rsquo;re giving computers a sense of smell. I build the data
-          pipelines that carry scent from lab to model, and the software
-          behind the making and fulfillment of physical scent products,
-          integrated with MES and ERP systems.
+          pipelines that carry scent from lab to model, bring those models
+          into production, and write the software behind the making and
+          fulfillment of physical scent products, integrated with MES and
+          ERP systems.
         </p>
         <p>
           Before engineering, I worked in data analysis and product
