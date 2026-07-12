@@ -1,14 +1,17 @@
+import BrandMark from './BrandMark'
+
 function App() {
   return (
     <main>
       <header>
+        <BrandMark />
         <h1>Charmille Coleen Dizon</h1>
         <p className="role">Product Engineer</p>
       </header>
 
       <section>
         <p>
-          I&rsquo;m a product engineer in Boston. I build data-intensive AI
+          I build data-intensive AI
           products end to end, from the data pipelines to the ML models to
           the interfaces and product decisions on top of them.
         </p>
@@ -24,7 +27,7 @@ function App() {
           Before engineering, I worked in data analysis and product
           management, and started out in climate research. At heart I&rsquo;m
           a builder, most useful where science and software meet. Curiosity
-          drives most of it &mdash; I like shipping fast, working across
+          drives most of it. I like shipping fast, working across
           teams, and learning from &amp; learning with people along the way.
         </p>
       </section>
@@ -42,7 +45,7 @@ function App() {
           </p>
           <ul>
             <li>
-              <span className="dates">2023&ndash;</span>
+              <span className="dates">2023&ndash; present</span>
               <span>Senior Software Engineer</span>
             </li>
           </ul>

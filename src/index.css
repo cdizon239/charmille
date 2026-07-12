@@ -57,6 +57,37 @@ main {
   }
 }
 
+.brand-mark {
+  display: block;
+  color: var(--ink);
+  margin-bottom: 1.5rem;
+}
+
+.brand-mark circle {
+  transform-box: fill-box;
+  animation: shimmer 3.4s ease-in-out infinite;
+}
+
+@keyframes shimmer {
+  0%,
+  100% {
+    opacity: calc(var(--o) * 0.5);
+    transform: translateY(1px);
+  }
+  50% {
+    opacity: var(--o);
+    transform: translateY(-1.5px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .brand-mark circle {
+    animation: none;
+    opacity: var(--o);
+    transform: none;
+  }
+}
+
 h1 {
   font-family: "Lora", Georgia, serif;
   font-weight: 500;
