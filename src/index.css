@@ -66,8 +66,8 @@ header {
 
 .brand-art {
   flex: 0 0 auto;
-  width: 5rem;
-  height: 5rem;
+  width: 7rem;
+  height: 7rem;
   border-radius: 50%;
   overflow: hidden;
 }
@@ -177,7 +177,7 @@ a:hover {
 }
 
 .elsewhere {
-  margin-top: 3.5rem;
+  margin-top: 0.85rem;
   font-family: "Inter", system-ui, sans-serif;
   font-size: 0.875rem;
   color: var(--muted);

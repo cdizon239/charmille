@@ -5,6 +5,13 @@ function App() {
         <div className="header-text">
           <h1>Charmille Coleen Dizon</h1>
           <p className="role">Product Engineer</p>
+          <nav className="elsewhere" aria-label="Elsewhere">
+            <a href="https://github.com/cdizon239">GitHub</a>
+            <a href="https://www.linkedin.com/in/charmille-coleen-dizon/">
+              LinkedIn
+            </a>
+            <a href="mailto:coleencharmille@gmail.com">Email</a>
+          </nav>
         </div>
         <div className="brand-art">
           <img src="/charmille.jpeg" alt="Charmille Coleen Dizon" />
@@ -114,15 +121,7 @@ function App() {
         </div>
       </section>
 
-      <nav className="elsewhere" aria-label="Elsewhere">
-        <a href="https://github.com/cdizon239">GitHub</a>
-        <a href="https://www.linkedin.com/in/charmille-coleen-dizon/">
-          LinkedIn
-        </a>
-        <a href="mailto:coleencharmille@gmail.com">Email</a>
-      </nav>
-
-      <footer>Boston, MA</footer>
+      {/* <footer>Boston, MA</footer> */}
     </main>
   )
 }
