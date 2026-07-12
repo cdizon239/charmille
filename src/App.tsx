@@ -1,10 +1,8 @@
-import BrandMark from './BrandMark'
-
 function App() {
   return (
     <main>
+      <img className="brand-art" src="/lineart1.svg" alt="" aria-hidden="true" />
       <header>
-        <BrandMark />
         <h1>Charmille Coleen Dizon</h1>
         <p className="role">Product Engineer</p>
       </header>
