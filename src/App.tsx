@@ -9,8 +9,8 @@ function App() {
       <section>
         <p>
           I&rsquo;m a product engineer in Boston. I build data-intensive AI
-          products end to end &mdash; the pipelines, the models, and the
-          interfaces and product decisions on top of them. I&rsquo;m most
+          products end to end, from the data pipelines to the ML models to
+          the interfaces and product decisions on top of them. I&rsquo;m most
           useful where science, product, and software meet.
         </p>
         <p>
@@ -60,7 +60,7 @@ function App() {
             <a href="https://www.indigoag.com/">Indigo</a>
           </p>
           <p className="blurb">
-            Technology for sustainable agriculture
+            Software and data products for sustainable agriculture
           </p>
           <ul>
             <li>
