@@ -11,7 +11,7 @@ function App() {
           I&rsquo;m a product engineer in Boston. I build data-intensive AI
           products end to end, from the data pipelines to the ML models to
           the interfaces and product decisions on top of them. I&rsquo;m most
-          useful where science, product, and software meet.
+          useful where science, product, and engineering meet.
         </p>
         <p>
           Today I&rsquo;m at <a href="https://www.osmo.ai/">Osmo</a>, where
