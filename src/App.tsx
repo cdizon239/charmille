@@ -25,7 +25,7 @@ function App() {
           management. I started out in climate research at Woods Hole
           Oceanographic Institution, reconstructing 1,500 years of hurricane
           activity from blue hole sediments &mdash;{' '}
-          <a href="https://www.sciencedirect.com/science/article/pii/S0277379121003334">
+          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379121003334">
             published in <em>Quaternary Science Reviews</em>
           </a>
           .
@@ -110,7 +110,7 @@ function App() {
             </li>
             <li>
               <span className="dates">2016&ndash;19</span>
-              <span>Peer Tutor, Chemistry &amp; Physics</span>
+              <span>Chemistry, Physics, and Writing Tutor</span>
             </li>
           </ul>
         </div>
