@@ -94,6 +94,26 @@ function App() {
             </li>
           </ul>
         </div>
+
+        <div className="company">
+          <p className="company-name">
+            <a href="https://www.northeastern.edu/">Northeastern University</a>
+          </p>
+          <p className="blurb">
+            Supporting international students and peers alongside my degree
+            through mentoring and tutoring
+          </p>
+          <ul>
+            <li>
+              <span className="dates">2016&ndash;20</span>
+              <span>Global Student Mentor</span>
+            </li>
+            <li>
+              <span className="dates">2016&ndash;19</span>
+              <span>Peer Tutor, Chemistry &amp; Physics</span>
+            </li>
+          </ul>
+        </div>
       </section>
 
       <nav className="elsewhere" aria-label="Elsewhere">
