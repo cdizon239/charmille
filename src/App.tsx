@@ -6,7 +6,6 @@ function App() {
           <h1>Charmille Coleen Dizon</h1>
           <p className="role">Product Engineer</p>
           <nav className="elsewhere" aria-label="Elsewhere">
-            <a href="https://github.com/cdizon239">GitHub</a>
             <a href="https://www.linkedin.com/in/charmille-coleen-dizon/">
               LinkedIn
             </a>
@@ -62,7 +61,7 @@ function App() {
 
         <div className="company">
           <p className="company-name">
-            <a href="https://www.indigoag.com/">Indigo</a>
+            <a href="https://www.indigoag.com/">Indigo Ag</a>
           </p>
           <p className="blurb">
             Software and data products for sustainable agriculture
@@ -110,7 +109,7 @@ function App() {
           </p>
           <ul>
             <li>
-              <span className="dates">2016&ndash;20</span>
+              <span className="dates">2016&ndash;19</span>
               <span>Global Student Mentor</span>
             </li>
             <li>
