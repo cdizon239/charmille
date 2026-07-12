@@ -13,7 +13,10 @@ function App() {
           </nav>
         </div>
         <div className="brand-art">
-          <img src="/charmille.jpeg" alt="Charmille Coleen Dizon" />
+          <img
+            src={`${import.meta.env.BASE_URL}charmille.jpeg`}
+            alt="Charmille Coleen Dizon"
+          />
         </div>
       </header>
 
