@@ -10,8 +10,7 @@ function App() {
         <p>
           I&rsquo;m a product engineer in Boston. I build data-intensive AI
           products end to end, from the data pipelines to the ML models to
-          the interfaces and product decisions on top of them. I&rsquo;m most
-          useful where science and software meet.
+          the interfaces and product decisions on top of them.
         </p>
         <p>
           Today I&rsquo;m at <a href="https://www.osmo.ai/">Osmo</a>, where
@@ -23,12 +22,10 @@ function App() {
         </p>
         <p>
           Before engineering, I worked in data analysis and product
-          management, and started out in climate research at Woods Hole,{' '}
-          <a href="https://www.sciencedirect.com/science/article/abs/pii/S0277379121003334">
-            published in <em>Quaternary Science Reviews</em>
-          </a>
-          . Curiosity drives most of it &mdash; I like shipping fast, working
-          across teams, and mentoring along the way.
+          management, and started out in climate research. At heart I&rsquo;m
+          a builder, most useful where science and software meet. Curiosity
+          drives most of it &mdash; I like shipping fast, working across
+          teams, and learning from &amp; learning with people along the way.
         </p>
       </section>
 
