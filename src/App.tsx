@@ -6,7 +6,9 @@ function App() {
           <h1>Charmille Coleen Dizon</h1>
           <p className="role">Product Engineer</p>
         </div>
-        <img className="brand-art" src="/lineart1.svg" alt="" aria-hidden="true" />
+        <div className="brand-art" aria-hidden="true">
+          <img src="/lineart1.svg" alt="" />
+        </div>
       </header>
 
       <section>
