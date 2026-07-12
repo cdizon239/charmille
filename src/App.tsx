@@ -83,8 +83,9 @@ function App() {
             <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
           </p>
           <p className="blurb">
-            Paleotempestology &mdash; reconstructed 1,500 years of hurricane
-            strikes from blue hole sediment cores
+            Paleotempestology research reconstructing 1,500 years of hurricane
+            activity from blue hole sediments to extend the storm record and
+            improve coastal flooding risk assessment
           </p>
           <ul>
             <li>
