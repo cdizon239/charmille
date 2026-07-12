@@ -38,59 +38,61 @@ function App() {
 
       <section className="experience" aria-label="Experience">
         <h2>Experience</h2>
-        <ul>
-          <li>
-            <span className="dates">2023&ndash;</span>
-            <div>
-              <p>Senior Software Engineer, <a href="https://www.osmo.ai/">Osmo</a></p>
-              <p className="blurb">
-                Digitize the sense of smell and democratize scent creation through data, ML models, and software products
-              </p>
-            </div>
-          </li>
-          <li>
-            <span className="dates">2022&ndash;23</span>
-            <div>
-              <p>Software Engineer, <a href="https://www.indigoag.com/">Indigo</a></p>
-              <p className="blurb">
-                Development of technology for sustainable agriculture
-              </p>
-            </div>
-          </li>
-          <li>
-            <span className="dates">2021&ndash;22</span>
-            <div>
-              <p>Product Manager, Indigo</p>
-              <p className="blurb">
-                Discovery and launch of digital agronomy products
-                for farmers and agriculture enterprises
-              </p>
-            </div>
-          </li>
-          <li>
-            <span className="dates">2020</span>
-            <div>
-              <p>Data Analyst, Indigo</p>
-              <p className="blurb">
-                Automated generation and distribution of personalized
-                agronomy reports
-              </p>
-            </div>
-          </li>
-          <li>
-            <span className="dates">2018</span>
-            <div>
-              <p>
-                Guest Researcher,{' '}
-                <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
-              </p>
-              <p className="blurb">
-                Paleotempestology &mdash; reconstructed 1,500 years of
-                hurricane strikes from blue hole sediment cores
-              </p>
-            </div>
-          </li>
-        </ul>
+
+        <div className="company">
+          <p className="company-name">
+            <a href="https://www.osmo.ai/">Osmo</a>
+          </p>
+          <p className="blurb">
+            Digitizing the sense of smell and democratizing scent creation
+            through data, ML models, and software products
+          </p>
+          <ul>
+            <li>
+              <span className="dates">2023&ndash;</span>
+              <span>Senior Software Engineer</span>
+            </li>
+          </ul>
+        </div>
+
+        <div className="company">
+          <p className="company-name">
+            <a href="https://www.indigoag.com/">Indigo</a>
+          </p>
+          <p className="blurb">
+            Technology for sustainable agriculture
+          </p>
+          <ul>
+            <li>
+              <span className="dates">2022&ndash;23</span>
+              <span>Software Engineer</span>
+            </li>
+            <li>
+              <span className="dates">2021&ndash;22</span>
+              <span>Product Manager</span>
+            </li>
+            <li>
+              <span className="dates">2020</span>
+              <span>Data Analyst</span>
+            </li>
+          </ul>
+        </div>
+
+        <div className="company">
+          <p className="company-name">
+            <a href="https://www.whoi.edu/">Woods Hole Oceanographic Institution</a>
+          </p>
+          <p className="blurb">
+            Paleotempestology &mdash; reconstructed 1,500 years of hurricane
+            strikes from blue hole sediment cores
+          </p>
+          <ul>
+            <li>
+              <span className="dates">2018</span>
+              <span>Guest Researcher</span>
+            </li>
+          </ul>
+        </div>
       </section>
 
       <nav className="elsewhere" aria-label="Elsewhere">

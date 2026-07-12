@@ -108,24 +108,33 @@ a:hover {
   margin-bottom: 1.25rem;
 }
 
-.experience ul {
-  list-style: none;
+.company + .company {
+  margin-top: 2rem;
 }
 
-.experience li {
-  display: flex;
-  gap: 1.25rem;
-  align-items: baseline;
-}
-
-.experience li + li {
-  margin-top: 1.25rem;
+.company-name {
+  font-weight: 500;
 }
 
 .blurb {
   font-size: 0.9375rem;
   color: var(--muted);
   margin-top: 0.125rem;
+}
+
+.company ul {
+  list-style: none;
+  margin-top: 0.75rem;
+}
+
+.company li {
+  display: flex;
+  gap: 1.25rem;
+  align-items: baseline;
+}
+
+.company li + li {
+  margin-top: 0.375rem;
 }
 
 .dates {
